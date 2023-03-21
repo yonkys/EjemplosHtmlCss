@@ -3,4 +3,6 @@
 Repositorio de proyectos desarrollados en html css y js
 
 ## Proyectos YB
--[Formulario con envio de datos](https://yonkys.github.io/EjemplosHtmlCss/01Formulario)
+
+- [Formulario con envio de datos](https://yonkys.github.io/EjemplosHtmlCss/01Formulario)
+- [Tierra girando](https://yonkys.github.io/EjemplosHtmlCss/02TierraGirando)
