@@ -6,4 +6,4 @@ Repositorio de proyectos desarrollados en html css y js
 
 - [Formulario con envio de datos](https://yonkys.github.io/EjemplosHtmlCss/01Formulario)
 - [Tierra girando](https://yonkys.github.io/EjemplosHtmlCss/02TierraGirando)
-- [Tierra girando](https://yonkys.github.io/EjemplosHtmlCss/03Pesqueria)
+- [Ejemplo de pagina pesqueria](https://yonkys.github.io/EjemplosHtmlCss/03Pesqueria)
